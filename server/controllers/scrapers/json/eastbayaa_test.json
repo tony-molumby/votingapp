@@ -1,0 +1,99 @@
+[
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "5:30 am",
+    "meetingName": "El Cerrito Fellowship Fragrance Free",
+    "locationName": "El Cerrito Fellowship",
+    "address": "12260 San Pablo Ave",
+    "region": "East Bay",
+    "city": "El Cerrito",
+    "state": "CA",
+    "meetingUrl": "https://eastbayaa.org/meetings/el-cerrito-fellowship-fragrance-free-6?tsml-day=any",
+    "details": [
+      "Birthday",
+      "Discussion",
+      "Fragrance Free",
+      "Open",
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:15 am",
+    "meetingName": "Rockridge Fellowship Attitude Adjustment",
+    "locationName": "Rockridge Fellowship",
+    "address": "3989 Howe St",
+    "region": "East Bay",
+    "city": "Oakland",
+    "state": "CA",
+    "meetingUrl": "https://eastbayaa.org/meetings/rockridge-fellowship-attitude-adjustment-2?tsml-day=any",
+    "details": [
+      "Discussion",
+      "Open"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:30 am",
+    "meetingName": "Centerville Fellowship Early Bird",
+    "locationName": "Centerville Fellowship",
+    "address": "4500 Thornton Ave",
+    "region": "East Bay",
+    "city": "Fremont",
+    "state": "CA",
+    "meetingUrl": "https://eastbayaa.org/meetings/centerville-fellowship-early-bird?tsml-day=any",
+    "details": [
+      "Discussion",
+      "Open",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:30 am",
+    "meetingName": "Wake Up Call",
+    "locationName": "Central Office",
+    "address": "295 27th St",
+    "region": "East Bay",
+    "city": "Oakland",
+    "state": "CA",
+    "meetingUrl": "https://eastbayaa.org/meetings/wake-up-call-2?tsml-day=any",
+    "details": [
+      "Big Book",
+      "Open",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:30 am",
+    "meetingName": "Triangle Fellowship Weekly Readers",
+    "locationName": "Triangle Fellowship",
+    "address": "25176 Mission Blvd",
+    "region": "East Bay",
+    "city": "Hayward",
+    "state": "CA",
+    "meetingUrl": "https://eastbayaa.org/meetings/triangle-fellowship-weekly-readers?tsml-day=any",
+    "details": [
+      "Literature",
+      "Open",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  }  
+]

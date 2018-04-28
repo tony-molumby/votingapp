@@ -1,0 +1,18 @@
+[
+    {
+        "acronym": "AA",
+        "groupName": "Alcoholics Anonymous"
+    },
+    {
+        "acronym": "NA",
+        "groupName": "Narcotics Anonymous" 
+    },
+    {
+        "acronym": "OA",
+        "groupName": "Overeaters Anonymous"
+    },
+    {
+        "acronym": "SAA",
+        "groupName": "Sex Addicts Anonymous"
+    }
+]

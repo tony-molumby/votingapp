@@ -1,0 +1,4233 @@
+[
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "5:30 am",
+    "meetingName": "On Awakening Group",
+    "locationName": "Marin Lutheran Church",
+    "address": "649 Meadowsweet Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/on-awakening-group-7?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "6:30 am",
+    "meetingName": "Day At A Time",
+    "locationName": "Druids Hall",
+    "address": "801 Grant Ave",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/day-at-a-time-7?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "7:00 am",
+    "meetingName": "Reveille",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/reveille-6?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "7:00 am",
+    "meetingName": "7 AM Group",
+    "locationName": "Masonic Hall",
+    "address": "1122 Magnolia Ave",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/7-am-group-7?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "7:00 am",
+    "meetingName": "Attitude Adjustment Hour",
+    "locationName": "Meeting Place",
+    "address": "46 Park Rd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/attitude-adjustment-hour-7?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "8:00 am",
+    "meetingName": "Mill Valley",
+    "locationName": "Little Log Cabin",
+    "address": "60 Tennessee Valley Rd",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/mill-valley-7?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "8:30 am",
+    "meetingName": "Spiritual Testosterone Sunday Men's Stag Men",
+    "locationName": "Larkspur Recreation Center",
+    "address": "240 Doherty Dr",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/spiritual-testosterone-sunday-mens-stag?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Men"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "9:00 am",
+    "meetingName": "Glum Not! Men",
+    "locationName": "Redwood High School",
+    "address": "395 Doherty Dr",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/glum-not?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Men"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "9:30 am",
+    "meetingName": "Back To Basics",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/back-to-basics?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "10:00 am",
+    "meetingName": "Rise N Shine",
+    "locationName": "Druids Hall",
+    "address": "801 Grant Ave",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/rise-n-shine?tsml-day=any&tsml-region=219",
+    "details": [
+      "Literature"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "10:00 am",
+    "meetingName": "Inverness Sunday Serenity",
+    "locationName": "Jack Mason Museum",
+    "address": "15 Park Ave",
+    "city": "Inverness",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/inverness-sunday-serenity?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "Noon",
+    "meetingName": "North Marin Speaker",
+    "locationName": "Druids Hall",
+    "address": "801 Grant Ave",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/north-marin-speaker?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "Noon",
+    "meetingName": "Noon Reveille",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/noon-reveille?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "Noon",
+    "meetingName": "Crossroads",
+    "locationName": "Pediatrics Bldg, Rms 1&2",
+    "address": "99 Montecillo Rd",
+    "city": "Terra Linda",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/crossroads?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "Noon",
+    "meetingName": "Larkspur Haven",
+    "locationName": "Redwood High School",
+    "address": "395 Doherty Dr",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/larkspur-haven?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "4:30 pm",
+    "meetingName": "Women's Meeting Women",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/womens-meeting?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "6:00 pm",
+    "meetingName": "Why It Works - AA Comes Of Age Book Study",
+    "locationName": "City Hall",
+    "address": "420 Litho St",
+    "city": "Sausalito",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/why-it-works-aa-comes-of-age-book-study?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Literature",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "6:00 pm",
+    "meetingName": "Serenity",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/serenity?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "6:00 pm",
+    "meetingName": "Sunday Express",
+    "locationName": "Meeting Place",
+    "address": "1907 Novato Blvd",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/sunday-express?tsml-day=any&tsml-region=219",
+    "details": [
+      "Anniversary",
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "6:00 pm",
+    "meetingName": "Sunday Friendship",
+    "locationName": "Red Hill Church",
+    "address": "921 Sir Francis Drake Blvd",
+    "city": "San Anselmo",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/sunday-friendship?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "7:00 pm",
+    "meetingName": "Greenfield Newcomers",
+    "locationName": "First United Methodist Church",
+    "address": "199 Greenfield Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/greenfield-newcomers?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "7:30 pm",
+    "meetingName": "A Vision For You",
+    "locationName": "Meeting Place",
+    "address": "46 Park Rd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/a-vision-for-you?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Renacer",
+    "locationName": "Meeting Space",
+    "address": "118 Alto St #201",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-renacer?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Trabajando Con Los Demas",
+    "locationName": "Meeting Space",
+    "address": "3255 Kerner Blvd #1",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-trabajando-con-los-demas?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "8:00 pm",
+    "meetingName": "Caledonia",
+    "locationName": "City Hall",
+    "address": "420 Litho St",
+    "city": "Sausalito",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/caledonia?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "8:00 pm",
+    "meetingName": "Candlelight Group",
+    "locationName": "Community Church, behind Fire Dept.",
+    "address": "32 Belvedere Ave",
+    "city": "Stinson Beach",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/candlelight-group?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "8:00 pm",
+    "meetingName": "Sunday Night Step",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/sunday-night-step?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "8:00 pm",
+    "meetingName": "Sunday Night Corte Madera",
+    "locationName": "Marin Lutheran Church",
+    "address": "649 Meadowsweet Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/sunday-night-corte-madera?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Sunday",
+    "time": "8:30 pm",
+    "meetingName": "Candlelight",
+    "locationName": "Lutheran Church",
+    "address": "2 San Marin Dr",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/candlelight?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "5:30 am",
+    "meetingName": "On Awakening Group",
+    "locationName": "Marin Lutheran Church",
+    "address": "649 Meadowsweet Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/on-awakening-group-5?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:30 am",
+    "meetingName": "Day At A Time",
+    "locationName": "Druids Hall",
+    "address": "801 Grant Ave",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/day-at-a-time-5?tsml-day=any&tsml-region=219",
+    "details": [
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:00 am",
+    "meetingName": "Morning Attitude Adjustment",
+    "locationName": "Dance Palace",
+    "address": "503 B St",
+    "city": "Pt. Reyes Station",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/morning-attitude-adjustment-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:00 am",
+    "meetingName": "Mill Valley",
+    "locationName": "Little Log Cabin",
+    "address": "60 Tennessee Valley Rd",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/mill-valley-5?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:00 am",
+    "meetingName": "Reveille",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/reveille-5?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:00 am",
+    "meetingName": "7 AM Group",
+    "locationName": "Masonic Hall",
+    "address": "1122 Magnolia Ave",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/7-am-group-5?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:00 am",
+    "meetingName": "Attitude Adjustment Hour",
+    "locationName": "Meeting Place",
+    "address": "46 Park Rd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/attitude-adjustment-hour-5?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "9:30 am",
+    "meetingName": "God Could & Would If He Were Sought",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/god-could-would-if-he-were-sought?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Literature"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "10:30 am",
+    "meetingName": "Awareness / Acceptance Women",
+    "locationName": "St. Paul's Episcopal Church Parish Hall",
+    "address": "1123 Court St",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/awareness-acceptance?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Wheelchair Access",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "Noon",
+    "meetingName": "Women's Step Study Group Women",
+    "locationName": "Little Log Cabin",
+    "address": "60 Tennessee Valley Rd",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/womens-step-study-group?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "Noon",
+    "meetingName": "Survivors",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/survivors?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "Noon",
+    "meetingName": "Happy, Joyous & Free",
+    "locationName": "Methodist Church",
+    "address": "410 Sycamore Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/happy-joyous-free-5?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "Noon",
+    "meetingName": "Primary Purpose",
+    "locationName": "Nazarene Church",
+    "address": "5400 Nave Dr",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/primary-purpose?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "Noon",
+    "meetingName": "Sausalito 12 Step Study Group",
+    "locationName": "Sausalito Sailing Club on the Barge",
+    "address": "Napa St",
+    "city": "Sausalito",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/sausalito-12-step-study-group?tsml-day=any&tsml-region=219",
+    "details": [
+      "Literature",
+      "Step Meeting"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "Noon",
+    "meetingName": "Monday Nooners",
+    "locationName": "The Quest Church",
+    "address": "1461 S Novato Blvd",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/monday-nooners?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "2:00 pm",
+    "meetingName": "Gratitude",
+    "locationName": "St Francis of Assisi Episcopal Church",
+    "address": "967 5th St",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/gratitude-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Anniversary",
+      "Step Meeting",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "5:30 pm",
+    "meetingName": "Quitting Time",
+    "locationName": "First United Methodist Church",
+    "address": "9 Ross Valley Dr",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/quitting-time-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:00 pm",
+    "meetingName": "Living Sober",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/living-sober?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:00 pm",
+    "meetingName": "Monday Night Madness Men",
+    "locationName": "Red Hill Church",
+    "address": "921 Sir Francis Drake Blvd",
+    "city": "San Anselmo",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/monday-night-madness?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Literature",
+      "Men",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:00 pm",
+    "meetingName": "Bounce Back",
+    "locationName": "Strawberry Rec Center",
+    "address": "118 E Strawberry Dr",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/bounce-back?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:00 pm",
+    "meetingName": "Monday Night Stag - 12 & 12 Men",
+    "locationName": "Westminster Church",
+    "address": "240 Tiburon Blvd",
+    "city": "Tiburon",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/monday-night-stag-12-12?tsml-day=any&tsml-region=219",
+    "details": [
+      "Men",
+      "Step Meeting",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:30 pm",
+    "meetingName": "Monday Miracles",
+    "locationName": "591 Redwood Highway Frontage Rd, Ste 5220",
+    "address": "591 Redwood Highway Frontage Rd #5220",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/monday-miracles?tsml-day=any&tsml-region=219",
+    "details": [
+      "Newcomer",
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:30 pm",
+    "meetingName": "Marin City - 6 Nights: Monday",
+    "locationName": "Presbyterian Church",
+    "address": "101 Donahue St",
+    "city": "Sausalito",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/marin-city-6-nights-monday?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:30 pm",
+    "meetingName": "Just Can't Wait 'til 8",
+    "locationName": "The Quest Church",
+    "address": "1461 S Novato Blvd",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/just-cant-wait-til-8?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:45 pm",
+    "meetingName": "Monday Blues",
+    "locationName": "First United Methodist Church",
+    "address": "199 Greenfield Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/monday-blues?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "6:50 pm",
+    "meetingName": "We, Us And Ours",
+    "locationName": "Meeting Place",
+    "address": "3 Oakdale Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/we-us-and-ours?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Step Meeting"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:00 pm",
+    "meetingName": "Men's 2 Plus Men",
+    "locationName": "Meeting Place",
+    "address": "2900 Larkspur Landing Cir",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/mens-2-plus?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Men",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:00 pm",
+    "meetingName": "Big Book Study & Meditation",
+    "locationName": "St Aidan's Episcopal Church",
+    "address": "30 Brighton Ave",
+    "city": "Bolinas",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/big-book-study-meditation?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book",
+      "Meditation"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:15 pm",
+    "meetingName": "Ross Valley-Fairfax Group",
+    "locationName": "Community Church",
+    "address": "2398 Sir Francis Drake Blvd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/ross-valley-fairfax-group?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book",
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo San Rafael",
+    "locationName": "819 A Street",
+    "address": "819 A St",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-san-rafael-5?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:30 pm",
+    "meetingName": "Candlelight Meditation",
+    "locationName": "Holy Innocents Church",
+    "address": "2 Tamalpais Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/candlelight-meditation?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Meditation",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:30 pm",
+    "meetingName": "Steps To Freedom",
+    "locationName": "Lutheran Church",
+    "address": "1100 Las Gallinas Ave",
+    "city": "Terra Linda",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/steps-to-freedom?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Queres Es Poder",
+    "locationName": "Meeting Place",
+    "address": "2 Commercial Blvd #1",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-queres-es-poder?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Renacer",
+    "locationName": "Meeting Space",
+    "address": "118 Alto St #201",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-renacer-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Trabajando Con Los Demas",
+    "locationName": "Meeting Space",
+    "address": "3255 Kerner Blvd #1",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-trabajando-con-los-demas-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:30 pm",
+    "meetingName": "East San Rafael Big Book",
+    "locationName": "St. Sylvester",
+    "address": "1115 Point San Pedro Rd",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/east-san-rafael-big-book?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "7:30 pm",
+    "meetingName": "Newcomers Step",
+    "locationName": "Star of the Sea Church",
+    "address": "180 Harrison Ave",
+    "city": "Sausalito",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/newcomers-step?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "8:00 pm",
+    "meetingName": "Nativity Monday Night Big Book",
+    "locationName": "Church of the Nativity",
+    "address": "333 Ellen Dr",
+    "city": "Marinwood",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/nativity-monday-night-big-book?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "8:00 pm",
+    "meetingName": "Novato Monday Stag Men",
+    "locationName": "Druids Hall",
+    "address": "801 Grant Ave",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/novato-monday-stag?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Discussion",
+      "Men"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "8:00 pm",
+    "meetingName": "San Geronimo Valley",
+    "locationName": "San Geronimo Valley Presby. Church",
+    "address": "5900 Sir Francis Drake Blvd",
+    "city": "San Geronimo",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/san-geronimo-valley?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "8:00 pm",
+    "meetingName": "11th Step Meeting",
+    "locationName": "St Francis of Assisi Episcopal Church",
+    "address": "967 5th St",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/11th-step-meeting?tsml-day=any&tsml-region=219",
+    "details": [
+      "Meditation",
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "8:00 pm",
+    "meetingName": "Monday Night Women's Group Women",
+    "locationName": "St. Luke Church",
+    "address": "10 Bayview Dr",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/monday-night-womens-group?tsml-day=any&tsml-region=219",
+    "details": [
+      "Wheelchair Access",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "8:00 pm",
+    "meetingName": "Monday Night Stag Tiburon Men",
+    "locationName": "Westminster Church",
+    "address": "240 Tiburon Blvd",
+    "city": "Tiburon",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/monday-night-stag-tiburon?tsml-day=any&tsml-region=219",
+    "details": [
+      "Men",
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Monday",
+    "time": "8:30 pm",
+    "meetingName": "Marin Newcomers",
+    "locationName": "Church of Our Savior",
+    "address": "10 Old Mill St",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/marin-newcomers?tsml-day=any&tsml-region=219",
+    "details": [
+      "Newcomer",
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "5:30 am",
+    "meetingName": "On Awakening Group",
+    "locationName": "Marin Lutheran Church",
+    "address": "649 Meadowsweet Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/on-awakening-group-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "6:30 am",
+    "meetingName": "Day At A Time",
+    "locationName": "Druids Hall",
+    "address": "801 Grant Ave",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/day-at-a-time-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:00 am",
+    "meetingName": "Morning Attitude Adjustment",
+    "locationName": "Dance Palace",
+    "address": "503 B St",
+    "city": "Pt. Reyes Station",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/morning-attitude-adjustment-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:00 am",
+    "meetingName": "Mill Valley",
+    "locationName": "Little Log Cabin",
+    "address": "60 Tennessee Valley Rd",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/mill-valley-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:00 am",
+    "meetingName": "Reveille",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/reveille-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Literature"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:00 am",
+    "meetingName": "7 AM Urgent Care Group",
+    "locationName": "Marin Lutheran Church",
+    "address": "649 Meadowsweet Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/7-am-urgent-care-group-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:00 am",
+    "meetingName": "7 AM Group",
+    "locationName": "Masonic Hall",
+    "address": "1122 Magnolia Ave",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/7-am-group-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:00 am",
+    "meetingName": "Attitude Adjustment Hour",
+    "locationName": "Meeting Place",
+    "address": "46 Park Rd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/attitude-adjustment-hour-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "9:30 am",
+    "meetingName": "God Could & Would If He Were Sought",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/god-could-would-if-he-were-sought-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Literature"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "10:30 am",
+    "meetingName": "Women's Big Book Women",
+    "locationName": "Hillside Church",
+    "address": "5461 Paradise Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/womens-big-book?tsml-day=any&tsml-region=219",
+    "details": [
+      "Babysitting Available",
+      "Closed",
+      "Literature",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "Noon",
+    "meetingName": "Noon",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/noon?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Step Meeting"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "Noon",
+    "meetingName": "Happy, Joyous & Free",
+    "locationName": "Methodist Church",
+    "address": "410 Sycamore Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/happy-joyous-free-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "Noon",
+    "meetingName": "Pathfinder's",
+    "locationName": "Nazarene Church",
+    "address": "5400 Nave Dr",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/pathfinders?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "3:30 pm",
+    "meetingName": "Closed Women's Step Study Women",
+    "locationName": "Methodist Church",
+    "address": "1473 S Novato Blvd",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/closed-womens-step-study?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Speaker",
+      "Step Meeting",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "5:30 pm",
+    "meetingName": "Quitting Time",
+    "locationName": "First United Methodist Church",
+    "address": "9 Ross Valley Dr",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/quitting-time-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "6:00 pm",
+    "meetingName": "T. G. I. Tuesday",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/t-g-i-tuesday?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "6:00 pm",
+    "meetingName": "There Is A Solution",
+    "locationName": "Meeting Place",
+    "address": "1907 Novato Blvd",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/there-is-a-solution?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book",
+      "Closed",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "6:30 pm",
+    "meetingName": "Marin City - 6 Nights: Tuesday",
+    "locationName": "Presbyterian Church",
+    "address": "101 Donahue St",
+    "city": "Sausalito",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/marin-city-6-nights-tuesday?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Literature",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:00 pm",
+    "meetingName": "Tuesday Beginners Meeting",
+    "locationName": "Methodist Church",
+    "address": "410 Sycamore Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/tuesday-beginners-meeting?tsml-day=any&tsml-region=219",
+    "details": [
+      "Babysitting Available",
+      "Newcomer",
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo San Rafael",
+    "locationName": "819 A Street",
+    "address": "819 A St",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-san-rafael-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:30 pm",
+    "meetingName": "Fairfax 12 & 12",
+    "locationName": "Meeting Place",
+    "address": "46 Park Rd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/fairfax-12-12?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Queres Es Poder",
+    "locationName": "Meeting Place",
+    "address": "2 Commercial Blvd #1",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-queres-es-poder-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Renacer",
+    "locationName": "Meeting Space",
+    "address": "118 Alto St #201",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-renacer-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Trabajando Con Los Demas",
+    "locationName": "Meeting Space",
+    "address": "3255 Kerner Blvd #1",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-trabajando-con-los-demas-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:30 pm",
+    "meetingName": "AA By The Bay",
+    "locationName": "St. Luke Church",
+    "address": "10 Bayview Dr",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/aa-by-the-bay?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "7:30 pm",
+    "meetingName": "Mill Valley 11th Step Meeting",
+    "locationName": "Strawberry Rec Center",
+    "address": "118 E Strawberry Dr",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/mill-valley-11th-step-meeting?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Meditation"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "8:00 pm",
+    "meetingName": "Gratitude",
+    "locationName": "Christ Episcopal Church",
+    "address": "142 San Carlos Ave",
+    "city": "Sausalito",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/gratitude?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "8:00 pm",
+    "meetingName": "Stinson Beach Big Book Study",
+    "locationName": "Community Church, behind Fire Dept.",
+    "address": "32 Belvedere Ave",
+    "city": "Stinson Beach",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/stinson-beach-big-book-study?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "8:00 pm",
+    "meetingName": "The Headless Horsemen Men",
+    "locationName": "Sleepy Hollow Presbyterian Church",
+    "address": "100 Tarry Rd",
+    "city": "San Anselmo",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/the-headless-horsemen?tsml-day=any&tsml-region=219",
+    "details": [
+      "Men",
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "8:30 pm",
+    "meetingName": "Tuesday Chip",
+    "locationName": "Community Center",
+    "address": "618 B St",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/tuesday-chip?tsml-day=any&tsml-region=219",
+    "details": [
+      "Anniversary",
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "8:30 pm",
+    "meetingName": "'Tiburon' Closed",
+    "locationName": "Methodist Church",
+    "address": "410 Sycamore Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/tiburon-closed?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Tuesday",
+    "time": "8:30 pm",
+    "meetingName": "Tuesday Big Book",
+    "locationName": "Methodist Church",
+    "address": "1473 S Novato Blvd",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/tuesday-big-book?tsml-day=any&tsml-region=219",
+    "details": [
+      "Literature",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "5:30 am",
+    "meetingName": "On Awakening Group",
+    "locationName": "Marin Lutheran Church",
+    "address": "649 Meadowsweet Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/on-awakening-group-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Tradition Study"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "6:30 am",
+    "meetingName": "Day At A Time",
+    "locationName": "Druids Hall",
+    "address": "801 Grant Ave",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/day-at-a-time-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:00 am",
+    "meetingName": "Mill Valley",
+    "locationName": "Little Log Cabin",
+    "address": "60 Tennessee Valley Rd",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/mill-valley-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:00 am",
+    "meetingName": "Reveille",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/reveille-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:00 am",
+    "meetingName": "7 AM Urgent Care Group",
+    "locationName": "Marin Lutheran Church",
+    "address": "649 Meadowsweet Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/7-am-urgent-care-group?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:00 am",
+    "meetingName": "7 AM Group",
+    "locationName": "Masonic Hall",
+    "address": "1122 Magnolia Ave",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/7-am-group-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:00 am",
+    "meetingName": "Attitude Adjustment Hour",
+    "locationName": "Meeting Place",
+    "address": "46 Park Rd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/attitude-adjustment-hour-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "9:30 am",
+    "meetingName": "God Could & Would If He Were Sought",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/god-could-would-if-he-were-sought-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Literature"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "Noon",
+    "meetingName": "Women For Women Women",
+    "locationName": "Little Log Cabin",
+    "address": "60 Tennessee Valley Rd",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/women-for-women?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Step Meeting",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "Noon",
+    "meetingName": "Wednesday Noon",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/wednesday-noon?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "Noon",
+    "meetingName": "Happy, Joyous & Free",
+    "locationName": "Methodist Church",
+    "address": "410 Sycamore Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/happy-joyous-free-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "Noon",
+    "meetingName": "Working Dogs",
+    "locationName": "Nazarene Church",
+    "address": "5400 Nave Dr",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/working-dogs?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "Noon",
+    "meetingName": "Sober Sisters Women",
+    "locationName": "Presby. Church Rm. 203",
+    "address": "72 Kensington Rd",
+    "city": "San Anselmo",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/sober-sisters?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Discussion",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "Noon",
+    "meetingName": "High & Dry",
+    "locationName": "Sausalito Sailing Club on the Barge",
+    "address": "Napa St",
+    "city": "Sausalito",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/high-dry?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "5:30 pm",
+    "meetingName": "Quitting Time",
+    "locationName": "First United Methodist Church",
+    "address": "9 Ross Valley Dr",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/quitting-time?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "6:00 pm",
+    "meetingName": "Wednesday Sundowners",
+    "locationName": "Druids Hall",
+    "address": "801 Grant Ave",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/wednesday-sundowners?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "6:00 pm",
+    "meetingName": "Wednesday Mid-week",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/wednesday-mid-week?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "6:00 pm",
+    "meetingName": "Strawberry Discussion",
+    "locationName": "Strawberry Rec Center",
+    "address": "118 E Strawberry Dr",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/strawberry-discussion?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "6:00 pm",
+    "meetingName": "Last Stop Men's Step Study Men",
+    "locationName": "The Quest Church",
+    "address": "1461 S Novato Blvd",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/last-stop-mens-step-study?tsml-day=any&tsml-region=219",
+    "details": [
+      "Men",
+      "Step Meeting",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "6:30 pm",
+    "meetingName": "Marin City - 6 Nights: Wednesday",
+    "locationName": "Presbyterian Church",
+    "address": "101 Donahue St",
+    "city": "Sausalito",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/marin-city-6-nights-wednesday?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:00 pm",
+    "meetingName": "Wednesday Night Speaker Discussion",
+    "locationName": "Dance Palace",
+    "address": "503 B St",
+    "city": "Pt. Reyes Station",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/wednesday-night-speaker-discussion?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:00 pm",
+    "meetingName": "Larkspur Beginners",
+    "locationName": "Redwood Presbyterian Church",
+    "address": "110 Magnolia Ave",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/larkspur-beginners-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Babysitting Available",
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:00 pm",
+    "meetingName": "Wholly Together 11th Step Meditation Meeting",
+    "locationName": "St. Paul's Episcopal Church Parish Hall",
+    "address": "1123 Court St",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/wholly-together-11th-step-meditation-meeting?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Meditation"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:15 pm",
+    "meetingName": "Steps To The Solution",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/steps-to-the-solution?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Step Meeting"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo San Rafael",
+    "locationName": "819 A Street",
+    "address": "819 A St",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-san-rafael-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:30 pm",
+    "meetingName": "Cover to Cover",
+    "locationName": "Lucas Valley Community Church",
+    "address": "2000 Las Gallinas Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/cover-to-cover?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book",
+      "Closed"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Queres Es Poder",
+    "locationName": "Meeting Place",
+    "address": "2 Commercial Blvd #1",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-queres-es-poder-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Renacer",
+    "locationName": "Meeting Space",
+    "address": "118 Alto St #201",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-renacer-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Trabajando Con Los Demas",
+    "locationName": "Meeting Space",
+    "address": "3255 Kerner Blvd #1",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-trabajando-con-los-demas-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "8:00 pm",
+    "meetingName": "It's All About The Book",
+    "locationName": "1 St Vincents Drive",
+    "address": "1 St Vincents Dr",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/its-all-about-the-book?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "8:00 pm",
+    "meetingName": "Wednesday Night Candlelight",
+    "locationName": "Christ Lutheran Church",
+    "address": "2626 Sir Francis Drake Blvd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/wednesday-night-candlelight?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "8:00 pm",
+    "meetingName": "The Mill Valley LGBTQ All Are Welcome",
+    "locationName": "Community Church",
+    "address": "8 Olive St",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/the-mill-valley-lgbtq-all-are-welcome?tsml-day=any&tsml-region=219",
+    "details": [
+      "Gay",
+      "Lesbian",
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "8:00 pm",
+    "meetingName": "Tiburon Women's Candlelight Women",
+    "locationName": "Westminster Church",
+    "address": "240 Tiburon Blvd",
+    "city": "Tiburon",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/tiburon-womens-candlelight?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Wheelchair Access",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "8:15 pm",
+    "meetingName": "Girls Night Out Women",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/girls-night-out?tsml-day=any&tsml-region=219",
+    "details": [
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "8:30 pm",
+    "meetingName": "Mill Valley Discussion",
+    "locationName": "Church of Our Savior",
+    "address": "10 Old Mill St",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/mill-valley-discussion?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "8:30 pm",
+    "meetingName": "Primary Purpose",
+    "locationName": "The Quest Church",
+    "address": "1461 S Novato Blvd",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/primary-purpose-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "8:30 pm",
+    "meetingName": "Los Ranchitos",
+    "locationName": "Unitarian Church",
+    "address": "240 Channing Way",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/los-ranchitos?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Wednesday",
+    "time": "10:00 pm",
+    "meetingName": "Passages",
+    "locationName": "Rodeo / Cronkhite Beach",
+    "address": "Mitchell Rd",
+    "city": "Sausalito",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/passages?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book",
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "5:30 am",
+    "meetingName": "On Awakening Group",
+    "locationName": "Marin Lutheran Church",
+    "address": "649 Meadowsweet Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/on-awakening-group?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "6:30 am",
+    "meetingName": "Day At A Time",
+    "locationName": "Druids Hall",
+    "address": "801 Grant Ave",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/day-at-a-time?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:00 am",
+    "meetingName": "Mill Valley",
+    "locationName": "Little Log Cabin",
+    "address": "60 Tennessee Valley Rd",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/mill-valley?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:00 am",
+    "meetingName": "Reveille",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/reveille?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:00 am",
+    "meetingName": "7 AM Group",
+    "locationName": "Masonic Hall",
+    "address": "1122 Magnolia Ave",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/7-am-group?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:00 am",
+    "meetingName": "Attitude Adjustment Hour",
+    "locationName": "Meeting Place",
+    "address": "46 Park Rd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/attitude-adjustment-hour?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "9:30 am",
+    "meetingName": "God Could & Would If He Were Sought",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/god-could-would-if-he-were-sought-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Literature"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "10:00 am",
+    "meetingName": "Living Sober Ladies Women",
+    "locationName": "Hillside Church",
+    "address": "5461 Paradise Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/living-sober-ladies?tsml-day=any&tsml-region=219",
+    "details": [
+      "Anniversary",
+      "Babysitting Available",
+      "Closed",
+      "Literature",
+      "Wheelchair Access",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "Noon",
+    "meetingName": "Noon Discussion",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/noon-discussion?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "Noon",
+    "meetingName": "Happy, Joyous & Free",
+    "locationName": "Methodist Church",
+    "address": "410 Sycamore Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/happy-joyous-free?tsml-day=any&tsml-region=219",
+    "details": [
+      "Literature",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "Noon",
+    "meetingName": "Refugee",
+    "locationName": "Nazarene Church",
+    "address": "5400 Nave Dr",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/refugee?tsml-day=any&tsml-region=219",
+    "details": [
+      ""
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "12:30 pm",
+    "meetingName": "Women in Unity Women",
+    "locationName": "Unity in Marin",
+    "address": "600 Palm Dr",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/women-in-unity?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "5:30 pm",
+    "meetingName": "Quitting Time",
+    "locationName": "First United Methodist Church",
+    "address": "9 Ross Valley Dr",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/quitting-time-5?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "5:30 pm",
+    "meetingName": "Step 11 / Gong Meditation",
+    "locationName": "Presby. Church Rm. 203",
+    "address": "72 Kensington Rd",
+    "city": "San Anselmo",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/step-11-gong-meditation?tsml-day=any&tsml-region=219",
+    "details": [
+      "Meditation"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "6:00 pm",
+    "meetingName": "Six O'clock Sunset",
+    "locationName": "Lutheran Church",
+    "address": "1180 Lynwood Dr",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/six-oclock-sunset?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "6:00 pm",
+    "meetingName": "Happy Hour",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/happy-hour?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "6:30 pm",
+    "meetingName": "Marin City - 6 Nights: Thursday",
+    "locationName": "Presbyterian Church",
+    "address": "101 Donahue St",
+    "city": "Sausalito",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/marin-city-6-nights-thursday?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "6:45 pm",
+    "meetingName": "Thursday Night Women's Step Study Women",
+    "locationName": "First United Methodist Church",
+    "address": "9 Ross Valley Dr",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/thursday-night-womens-step-study?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:00 pm",
+    "meetingName": "Constructive Criticism Stag Men",
+    "locationName": "A New Path Marin",
+    "address": "863 Francisco Blvd E",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/constructive-criticism-stag?tsml-day=any&tsml-region=219",
+    "details": [
+      "Literature",
+      "Men",
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:00 pm",
+    "meetingName": "Four Horsemen",
+    "locationName": "Aldersgate Church",
+    "address": "1 Wellbrock Heights",
+    "city": "Terra Linda",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/four-horsemen?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Literature",
+      "Speaker",
+      "Step Meeting",
+      "Step Meeting"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:00 pm",
+    "meetingName": "Sunlight Of The Spirit Women",
+    "locationName": "Christ Lutheran Church",
+    "address": "2626 Sir Francis Drake Blvd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/sunlight-of-the-spirit?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:00 pm",
+    "meetingName": "Sisters In Sobriety Women",
+    "locationName": "Church of the Nativity",
+    "address": "333 Ellen Dr",
+    "city": "Marinwood",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/sisters-in-sobriety?tsml-day=any&tsml-region=219",
+    "details": [
+      "Babysitting Available",
+      "Speaker",
+      "Wheelchair Access",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:00 pm",
+    "meetingName": "Keep It Simple Sister Women",
+    "locationName": "Meeting Place",
+    "address": "1907 Novato Blvd",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/keep-it-simple-sister?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book",
+      "Newcomer",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:00 pm",
+    "meetingName": "Epiphany Group",
+    "locationName": "Unity in Marin",
+    "address": "600 Palm Dr",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/epiphany-group?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo San Rafael",
+    "locationName": "819 A Street",
+    "address": "819 A St",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-san-rafael?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Queres Es Poder",
+    "locationName": "Meeting Place",
+    "address": "2 Commercial Blvd #1",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-queres-es-poder-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Renacer",
+    "locationName": "Meeting Space",
+    "address": "118 Alto St #201",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-renacer-5?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Trabajando Con Los Demas",
+    "locationName": "Meeting Space",
+    "address": "3255 Kerner Blvd #1",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-trabajando-con-los-demas-5?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "7:30 pm",
+    "meetingName": "The Broad Highway - San Anselmo",
+    "locationName": "Red Hill Church",
+    "address": "921 Sir Francis Drake Blvd",
+    "city": "San Anselmo",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/the-broad-highway-san-anselmo?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "8:00 pm",
+    "meetingName": "Stinson Beach Fellowship",
+    "locationName": "Community Church, behind Fire Dept.",
+    "address": "32 Belvedere Ave",
+    "city": "Stinson Beach",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/stinson-beach-fellowship?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "8:00 pm",
+    "meetingName": "Terra Linda Thursday Men's Stag Men",
+    "locationName": "Lutheran Church",
+    "address": "1100 Las Gallinas Ave",
+    "city": "Terra Linda",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/terra-linda-thursday-mens-stag?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Men",
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "8:00 pm",
+    "meetingName": "Beginners Help",
+    "locationName": "Methodist Church",
+    "address": "1473 S Novato Blvd",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/beginners-help?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Newcomer",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "8:00 pm",
+    "meetingName": "Thursday Night Miracles",
+    "locationName": "Presby. Church Rm. 203",
+    "address": "72 Kensington Rd",
+    "city": "San Anselmo",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/thursday-night-miracles?tsml-day=any&tsml-region=219",
+    "details": [
+      "Literature"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "8:30 pm",
+    "meetingName": "Thursday Night Speaker",
+    "locationName": "Mt. Carmel School",
+    "address": "17 Buena Vista Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/thursday-night-speaker?tsml-day=any&tsml-region=219",
+    "details": [
+      "Anniversary",
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Thursday",
+    "time": "8:30 pm",
+    "meetingName": "Terra Linda",
+    "locationName": "St. Isabella's Parish Hall",
+    "address": "1 Trinity Way",
+    "city": "Terra Linda",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/terra-linda?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "5:30 am",
+    "meetingName": "On Awakening Group",
+    "locationName": "Marin Lutheran Church",
+    "address": "649 Meadowsweet Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/on-awakening-group-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "6:30 am",
+    "meetingName": "Day At A Time",
+    "locationName": "Druids Hall",
+    "address": "801 Grant Ave",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/day-at-a-time-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "7:00 am",
+    "meetingName": "Morning Attitude Adjustment",
+    "locationName": "Dance Palace",
+    "address": "503 B St",
+    "city": "Pt. Reyes Station",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/morning-attitude-adjustment-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "7:00 am",
+    "meetingName": "Mill Valley",
+    "locationName": "Little Log Cabin",
+    "address": "60 Tennessee Valley Rd",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/mill-valley-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "7:00 am",
+    "meetingName": "Reveille",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/reveille-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "7:00 am",
+    "meetingName": "7 AM Urgent Care Group",
+    "locationName": "Marin Lutheran Church",
+    "address": "649 Meadowsweet Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/7-am-urgent-care-group-3?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "7:00 am",
+    "meetingName": "7 AM Group",
+    "locationName": "Masonic Hall",
+    "address": "1122 Magnolia Ave",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/7-am-group-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "7:00 am",
+    "meetingName": "Attitude Adjustment Hour",
+    "locationName": "Meeting Place",
+    "address": "46 Park Rd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/attitude-adjustment-hour-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "9:30 am",
+    "meetingName": "God Could & Would If He Were Sought",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/god-could-would-if-he-were-sought-5?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Literature"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "10:30 am",
+    "meetingName": "Women's 12 x 12 Women",
+    "locationName": "Hillside Church",
+    "address": "5461 Paradise Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/womens-12-x-12?tsml-day=any&tsml-region=219",
+    "details": [
+      "Babysitting Available",
+      "Discussion",
+      "Step Meeting",
+      "Wheelchair Access",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "Noon",
+    "meetingName": "More Will Be Revealed Women",
+    "locationName": "Little Log Cabin",
+    "address": "60 Tennessee Valley Rd",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/more-will-be-revealed?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "Noon",
+    "meetingName": "Noon Hope",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/noon-hope?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "Noon",
+    "meetingName": "Happy, Joyous & Free",
+    "locationName": "Methodist Church",
+    "address": "410 Sycamore Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/happy-joyous-free-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "Noon",
+    "meetingName": "What's It All About",
+    "locationName": "Nazarene Church",
+    "address": "5400 Nave Dr",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/whats-it-all-about?tsml-day=any&tsml-region=219",
+    "details": [
+      "Big Book",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "Noon",
+    "meetingName": "Women's Lunch Bunch Women",
+    "locationName": "St. Paul's Episcopal Church Parish Hall",
+    "address": "1123 Court St",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/womens-lunch-bunch?tsml-day=any&tsml-region=219",
+    "details": [
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "2:00 pm",
+    "meetingName": "Novato Spirit Discussion",
+    "locationName": "St Francis of Assisi Episcopal Church",
+    "address": "967 5th St",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/novato-spirit-discussion?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "5:30 pm",
+    "meetingName": "Quitting Time",
+    "locationName": "First United Methodist Church",
+    "address": "9 Ross Valley Dr",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/quitting-time-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "6:00 pm",
+    "meetingName": "T. G. I. F.",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/t-g-i-f?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "6:00 pm",
+    "meetingName": "Living In The Solution",
+    "locationName": "Strawberry Rec Center",
+    "address": "118 E Strawberry Dr",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/living-in-the-solution?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "6:30 pm",
+    "meetingName": "Marin City - 6 Nights: Friday",
+    "locationName": "Presbyterian Church",
+    "address": "101 Donahue St",
+    "city": "Sausalito",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/marin-city-6-nights-friday?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Literature",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "6:45 pm",
+    "meetingName": "Fireside",
+    "locationName": "O'Connor House",
+    "address": "424 Mission Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/fireside-2?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "7:00 pm",
+    "meetingName": "Sober & Serene",
+    "locationName": "Meeting Place",
+    "address": "1907 Novato Blvd",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/sober-serene?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "7:00 pm",
+    "meetingName": "Larkspur Beginners",
+    "locationName": "Redwood Presbyterian Church",
+    "address": "110 Magnolia Ave",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/larkspur-beginners?tsml-day=any&tsml-region=219",
+    "details": [
+      "Babysitting Available",
+      "Discussion",
+      "Newcomer"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "7:00 pm",
+    "meetingName": "Happy Destiny",
+    "locationName": "St. Sylvester",
+    "address": "1115 Point San Pedro Rd",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/happy-destiny?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo San Rafael",
+    "locationName": "819 A Street",
+    "address": "819 A St",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-san-rafael-4?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Queres Es Poder",
+    "locationName": "Meeting Place",
+    "address": "2 Commercial Blvd #1",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-queres-es-poder-5?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Renacer",
+    "locationName": "Meeting Space",
+    "address": "118 Alto St #201",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-renacer-6?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Trabajando Con Los Demas",
+    "locationName": "Meeting Space",
+    "address": "3255 Kerner Blvd #1",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-trabajando-con-los-demas-6?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "8:00 pm",
+    "meetingName": "Fireside",
+    "locationName": "Bolinas Children's Center",
+    "address": "Elm Rd",
+    "city": "Bolinas",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/fireside?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Literature"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "8:00 pm",
+    "meetingName": "Fairfax Friday Night",
+    "locationName": "Community Church",
+    "address": "2398 Sir Francis Drake Blvd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/fairfax-friday-night?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "8:00 pm",
+    "meetingName": "Not A Glum Lot Group",
+    "locationName": "First United Methodist Church",
+    "address": "199 Greenfield Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/not-a-glum-lot-group?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "8:00 pm",
+    "meetingName": "As Bill Sees It",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/as-bill-sees-it?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "8:00 pm",
+    "meetingName": "S.G. Valley Book Study",
+    "locationName": "San Geronimo Valley Presby. Church",
+    "address": "5900 Sir Francis Drake Blvd",
+    "city": "San Geronimo",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/s-g-valley-book-study?tsml-day=any&tsml-region=219",
+    "details": [
+      "Literature"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "8:30 pm",
+    "meetingName": "Freedom Finders",
+    "locationName": "Aldersgate Church",
+    "address": "1 Wellbrock Heights",
+    "city": "Terra Linda",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/freedom-finders?tsml-day=any&tsml-region=219",
+    "details": [
+      "Babysitting Available",
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "8:30 pm",
+    "meetingName": "Hillside Candlelight",
+    "locationName": "Hillside Church",
+    "address": "5461 Paradise Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/hillside-candlelight?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "8:30 pm",
+    "meetingName": "Marin Young People",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/marin-young-people?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Young People"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "8:30 pm",
+    "meetingName": "Downtown Mill Valley (Couch Meeting)",
+    "locationName": "Miller Avenue Church",
+    "address": "285 Miller Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/downtown-mill-valley-couch-meeting?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "8:30 pm",
+    "meetingName": "Friday Night Book",
+    "locationName": "Redwood Presbyterian Church",
+    "address": "110 Magnolia Ave",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/friday-night-book?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Literature"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Friday",
+    "time": "8:30 pm",
+    "meetingName": "The Novato Group-Fri. Night Disc",
+    "locationName": "St Francis of Assisi Episcopal Church",
+    "address": "967 5th St",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/the-novato-group-fri-night-disc?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "5:30 am",
+    "meetingName": "On Awakening Group",
+    "locationName": "Marin Lutheran Church",
+    "address": "649 Meadowsweet Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/on-awakening-group-6?tsml-day=any&tsml-region=219",
+    "details": [
+      ""
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "6:00 am",
+    "meetingName": "Early Birds",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/early-birds?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "6:30 am",
+    "meetingName": "Day At A Time",
+    "locationName": "Druids Hall",
+    "address": "801 Grant Ave",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/day-at-a-time-6?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "7:00 am",
+    "meetingName": "Reveille",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/reveille-7?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "7:00 am",
+    "meetingName": "7 AM Group",
+    "locationName": "Masonic Hall",
+    "address": "1122 Magnolia Ave",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/7-am-group-6?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "7:00 am",
+    "meetingName": "Attitude Adjustment Hour",
+    "locationName": "Meeting Place",
+    "address": "46 Park Rd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/attitude-adjustment-hour-6?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "8:00 am",
+    "meetingName": "Mill Valley",
+    "locationName": "Little Log Cabin",
+    "address": "60 Tennessee Valley Rd",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/mill-valley-6?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "8:00 am",
+    "meetingName": "Morning Attitude Adjustment",
+    "locationName": "Pt. Reyes Fire Station",
+    "address": "101 4th St",
+    "city": "Pt. Reyes Station",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/morning-attitude-adjustment?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "8:15 am",
+    "meetingName": "12 & 12 Study",
+    "locationName": "Redwood Presbyterian Church",
+    "address": "110 Magnolia Ave",
+    "city": "Larkspur",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/12-12-study?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "8:30 am",
+    "meetingName": "Awakenings",
+    "locationName": "Nazarene Church",
+    "address": "5400 Nave Dr",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/awakenings?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "8:30 am",
+    "meetingName": "Saturday Weekend Warrior Men",
+    "locationName": "Strawberry Rec Center",
+    "address": "118 E Strawberry Dr",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/saturday-weekend-warrior?tsml-day=any&tsml-region=219",
+    "details": [
+      "Men",
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "9:00 am",
+    "meetingName": "Streetfighters",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/streetfighters?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "10:00 am",
+    "meetingName": "Morning After",
+    "locationName": "Community Center",
+    "address": "315 Montford Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/morning-after?tsml-day=any&tsml-region=219",
+    "details": [
+      "Babysitting Available",
+      "Big Book",
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "10:00 am",
+    "meetingName": "Deep Sea (every 3rd Saturday)",
+    "locationName": "Tennessee Valley Trailhead",
+    "address": "591 Tennessee Valley Rd",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/deep-sea-every-3rd-saturday?tsml-day=any&tsml-region=219",
+    "details": [
+      "Meditation",
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "10:00 am",
+    "meetingName": "Intimate Feelings Women",
+    "locationName": "The Quest Church",
+    "address": "1461 S Novato Blvd",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/intimate-feelings?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed",
+      "Wheelchair Access",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "11:00 am",
+    "meetingName": "Serendipity",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/serendipity?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "3:00 pm",
+    "meetingName": "Men's Stag Men",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/mens-stag?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Men"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "4:00 pm",
+    "meetingName": "The Barnyard Group",
+    "locationName": "Druids Hall",
+    "address": "801 Grant Ave",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/the-barnyard-group?tsml-day=any&tsml-region=219",
+    "details": [
+      "Closed"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "5:30 pm",
+    "meetingName": "Three Step Group",
+    "locationName": "Methodist Church",
+    "address": "410 Sycamore Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/three-step-group?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "6:00 pm",
+    "meetingName": "Conscious Contact",
+    "locationName": "Christ Lutheran Church",
+    "address": "2626 Sir Francis Drake Blvd",
+    "city": "Fairfax",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/conscious-contact?tsml-day=any&tsml-region=219",
+    "details": [
+      "Meditation"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "6:00 pm",
+    "meetingName": "Saturday Women's Speaker Women",
+    "locationName": "Inverness Firehouse",
+    "address": "50 Inverness Way",
+    "city": "Inverness",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/saturday-womens-speaker?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Women"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "6:00 pm",
+    "meetingName": "Experience, Strength & Hope",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/experience-strength-hope?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "6:30 pm",
+    "meetingName": "Marin City - 6 Nights: Saturday",
+    "locationName": "Presbyterian Church",
+    "address": "101 Donahue St",
+    "city": "Sausalito",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/marin-city-6-nights-saturday?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "7:00 pm",
+    "meetingName": "Young People's BYOB",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/young-peoples-byob?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting",
+      "Young People"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo San Rafael",
+    "locationName": "819 A Street",
+    "address": "819 A St",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-san-rafael-6?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Queres Es Poder",
+    "locationName": "Meeting Place",
+    "address": "2 Commercial Blvd #1",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-queres-es-poder-6?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Renacer",
+    "locationName": "Meeting Space",
+    "address": "118 Alto St #201",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-renacer-7?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "7:30 pm",
+    "meetingName": "Grupo Trabajando Con Los Demas",
+    "locationName": "Meeting Space",
+    "address": "3255 Kerner Blvd #1",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/grupo-trabajando-con-los-demas-7?tsml-day=any&tsml-region=219",
+    "details": [
+      "Spanish"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "8:00 pm",
+    "meetingName": "Corte Madera Saturday Candlelight",
+    "locationName": "Hillside Church",
+    "address": "5461 Paradise Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/corte-madera-saturday-candlelight?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "8:00 pm",
+    "meetingName": "Alano Club Saturday Night",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/alano-club-saturday-night?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "8:00 pm",
+    "meetingName": "Drunks without Dates",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/drunks-without-dates?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "8:00 pm",
+    "meetingName": "Saturday Serenity",
+    "locationName": "Methodist Church",
+    "address": "410 Sycamore Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/saturday-serenity?tsml-day=any&tsml-region=219",
+    "details": [
+      "Speaker",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "8:30 pm",
+    "meetingName": "San Marin Step Study",
+    "locationName": "Lutheran Church",
+    "address": "2 San Marin Dr",
+    "city": "Novato",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/san-marin-step-study?tsml-day=any&tsml-region=219",
+    "details": [
+      "Step Meeting",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "8:30 pm",
+    "meetingName": "Blackie's Pasture",
+    "locationName": "Tiburon Baptist Church",
+    "address": "445 Greenwood Beach Rd",
+    "city": "Tiburon",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/blackies-pasture?tsml-day=any&tsml-region=219",
+    "details": [
+      "Anniversary",
+      "Speaker"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "9:15 pm",
+    "meetingName": "Why It Works",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/why-it-works?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Literature",
+      "Step Meeting"
+    ],
+    "geo": []
+  },
+  {
+    "groupName": "Alchoholics Anonymous",
+    "groupAcronym": "AA",
+    "day": "Saturday",
+    "time": "10:00 pm",
+    "meetingName": "Chopsticks",
+    "locationName": "Marin Alano Club",
+    "address": "1360 Lincoln Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "meetingUrl": "https://www.aasf.org/meetings/chopsticks?tsml-day=any&tsml-region=219",
+    "details": [
+      "Discussion",
+      "Wheelchair Access"
+    ],
+    "geo": []
+  }
+]

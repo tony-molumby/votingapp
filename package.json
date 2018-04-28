@@ -44,5 +44,6 @@
   "bugs": {
     "url": "https://github.com/tony-molumby/boilerplate/issues"
   },
-  "homepage": "https://github.com/tony-molumby/boilerplate#readme"
+  "homepage": "https://github.com/tony-molumby/boilerplate#readme",
+  "proxy": "http://localhost:3001"
 }

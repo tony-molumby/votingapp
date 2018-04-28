@@ -2,10 +2,10 @@ import app from './app';
 import express from 'express';
 
 //Controller Imports
-import meetingController from './controllers/meeting.controller';
+import basicController from './controllers/basic.controller';
 
 const routes = express();
 
-routes.post('/search', meetingController.post);
+routes.post('/search', basicController.post);
 
 export default routes;

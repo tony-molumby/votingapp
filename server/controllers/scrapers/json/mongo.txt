@@ -1,4 +1,0 @@
-import json files:
-
-  from the command prompt in the folder you would like to load data from:
-  mongoimport --db dbName--collection siteData --drop --file fileName.json

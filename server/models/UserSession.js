@@ -2,8 +2,8 @@ import mongoose from 'mongoose';
 
 const UserSessionSchema = new mongoose.Schema({
     userId: {
-        type: Number,
-        default: -1
+        type: String  ,
+        default: ''
     },
     timestamp: {
         type: Date,

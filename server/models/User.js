@@ -29,6 +29,7 @@ UserSchema.methods.generateHash = (password) => {
     return bcrypt.hashSync(password, bcrypt.genSaltSync(8), null);
 };
 
+//try refactoring this with ES6 and the .call method for practice and see if it works
 UserSchema.methods.validPassword = function(password) {
     return bcrypt.compareSync(password, this.password);
 };
